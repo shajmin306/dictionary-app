@@ -9,7 +9,24 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">Coded by Shajmin Rahman</footer>
+        <footer className="text-center">
+          This project has been coded by
+          <a
+            href="https://github.com/shajmin306"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Shajmin Rahman
+          </a>{" "}
+          and is open sourced on
+          <a
+            href="https://github.com/shajmin306/dictionary-app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Github
+          </a>
+        </footer>
       </div>
     </div>
   );
