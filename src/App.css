@@ -2,6 +2,9 @@ body {
   background-color: #851c45;
 }
 
+.App {
+  padding: 60px 0 100px;
+}
 .App header {
   color: white;
   font-size: 48px;
